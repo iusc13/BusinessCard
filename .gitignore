@@ -16,6 +16,7 @@ nbdist/
 
 # End of https://www.gitignore.io/api/netbeans
 
+# additional comment
 project.xml
 project.properties
 
